@@ -14,7 +14,7 @@ const path = require('path');
 
 
 const Place = require('./models/Place')
-const User = require('./models/user');
+const User = require('./models/User');
 const Booking = require('./models/Booking.js');
 
 
